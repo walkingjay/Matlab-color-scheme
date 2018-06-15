@@ -1,0 +1,33 @@
+# Cobalt_2 - MATLAB color scheme
+# Generated with schemer_export v1.4.0, on MATLAB 9.3.0.713579 (R2017b)
+# Fri Jun 15 19:05:21 PHT 2018
+# To enable this color scheme in MATLAB use schemer_import, available at:
+#     https://github.com/scottclowe/matlab-schemer
+#     https://www.mathworks.com/matlabcentral/fileexchange/53862-matlab-schemer
+ColorsUseSystem=Bfalse
+ColorsUseMLintAutoFixBackground=Btrue
+Editor.VariableHighlighting.Automatic=Btrue
+Editor.NonlocalVariableHighlighting=Btrue
+EditorCodepadHighVisible=Btrue
+EditorCodeBlockDividers=Btrue
+Editorhighlight-caret-row-boolean=Btrue
+EditorRightTextLineVisible=Btrue
+EditorRightTextLimitLineWidth=I1
+ColorsText=C-1908223
+ColorsBackground=C-16570576
+Colors_M_Keywords=C-25344
+Colors_M_Comments=C-3342490
+Colors_M_Strings=C-39424
+Colors_M_UnterminatedStrings=C-4480
+Colors_M_SystemCommands=C-3355444
+Colors_M_Errors=C-52480
+Colors_HTML_HTMLLinks=C-15762469
+Colors_M_Warnings=C-52429
+ColorsMLintAutoFixBackground=C-12303292
+Editor.VariableHighlighting.Color=C-16728180
+Editor.NonlocalVariableHighlighting.TextColor=C-8323141
+Editorhighlight-lines=C-14548421
+Editorhighlight-caret-row-boolean-color=C-13434727
+EditorRightTextLimitLineColor=C-14665909
+Color_CmdWinWarnings=C-893381
+Color_CmdWinErrors=C-52429
